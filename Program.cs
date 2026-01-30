@@ -34,7 +34,7 @@ namespace TokensBegone
         private void InitializeComponent()
         {
             this.Text = "TokensBegone";
-            this.Size = new Size(300, 200);
+            this.Size = new Size(300, 220);
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.StartPosition = FormStartPosition.CenterScreen;
