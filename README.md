@@ -29,9 +29,15 @@ Tiny (~170 KB). Instant startup. Requires .NET 8 Runtime (Windows prompts to ins
 
 ## Build from Source
 
+If you prefer not to download the exe, you can build it yourself:
+
 ```bash
+git clone https://github.com/holyghostlol/TokensBegone.git
+cd TokensBegone
 dotnet publish -c Release -o publish
 ```
+
+The exe will be in the `publish` folder. Requires [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0).
 
 ## Legal
 
