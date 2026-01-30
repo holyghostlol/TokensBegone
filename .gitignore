@@ -1,0 +1,9 @@
+# Build artifacts
+bin/
+obj/
+publish/
+
+# IDE
+.vs/
+.vscode/
+*.user
